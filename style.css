@@ -3,6 +3,12 @@ html {
     font-size: 17px;
 }
 
+.myname {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .myself {
     text-align: center;
 }
@@ -13,7 +19,7 @@ html {
 
 .foot {
     text-align: center;
-    background-color: black;
+    background-color: #556fdc;
     color: antiquewhite;
     font-size: 20px;
     padding-bottom: 7%;
